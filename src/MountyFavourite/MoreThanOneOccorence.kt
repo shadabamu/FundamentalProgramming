@@ -42,5 +42,8 @@ fun main() {
     print(marr2)
 
 
+    
+    // in JS 
+ //   console.log(names.filter(name=> name.split('').filter(ch=> ch=='a').length>1))
 
 }
